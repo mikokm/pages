@@ -1,0 +1,1 @@
+create a webpage with a toggle switch that switches "weekend mode" on and off. When the weekend mode is toggled on, confetti should fly around and a discoball should fall from the ceiling and start spinning, reflecting lights. Pop music should start to play
